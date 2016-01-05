@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AndroidCrashLogger</string>
+    <string name="action_settings">Settings</string>
+    <string name="error_title">CRASHLOGGER STOOPED</string>
+    <string name="error_desc"> Sorry, Something went wrong. \nPlease send error logs to developer.</string>
+
+
+</resources>
