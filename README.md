@@ -1,13 +1,8 @@
 # Android-Crash-Logger
-Android Crash Logger
-#### Debug version
+#### How to use
+Just add below line in your every activity.
+```
+> Thread.setDefaultUncaughtExceptionHandler(new ExceptionHandler(this));
+```
 
-```
-> gradlew.bat assembleDebug
-```
 
-#### Release version
-
-```
-> gradlew.bat assembleRelease
-```
