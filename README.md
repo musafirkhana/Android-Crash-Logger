@@ -14,5 +14,7 @@ Change below parameter as u have.Here LOG_DIR is where u want to save your log f
 	public static String EMAIL_SUBJECT = "Crah Log";
 	public static String EMAIL_BODY = "This mail is come from user with crash log attached";
 ```
+### Mail Send
+![Example Image Dark][1]
 
-
+[1]: http://i.imgur.com/D62nGcy.png
